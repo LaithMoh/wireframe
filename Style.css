@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+body { 
+    width: 1500px;
+    margin: auto;
+    font-family: 'colebrat', serif;
+}
+header { 
+    background-color: rgba(0, 50, 300, 0.3);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+header h1 {
+    text-align: center; 
+    margin: ;
+    
+} 
+
+.logo {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#nav1 {
+    text-align: center;
+    
+}
+
+main nav a {
+    padding-left: 15px;
+    text-decoration: none;
+    color: black;
+}
+
+main li {
+    
+    padding-right: 50px;
+}
+
+article {
+    
+    padding-top: 30px;
+    padding-left: 30px;
+    background-color: rgb(16, 1, 51);
+    margin-bottom: 20px;
+    color: #fff;
+} 
+
+footer {
+    text-align: center;
+    background-color: gray;  
+    color: #fff;
+}
+ footer table  {
+     margin: 0 auto;
+
+     color: #fff;
+
+     text-align: center;
+ }
+ table a {
+    color: #fff; 
+    text-decoration: none;
+    padding-left: 15px;
+ }
